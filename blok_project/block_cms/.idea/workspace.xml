@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="651a7860-85be-488b-b1c1-6514cbe78a10" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/components/back/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/components/back/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/router/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/router/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/channel/Add.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/channel/Add.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/channel/Edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/channel/Edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/comment/Comment.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/comment/Comment.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/user/Add.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/user/Add.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/user/Edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/user/Edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/user/Info.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/views/admin/user/Info.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/views/front/Detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/views/front/Detail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/views/front/FHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/views/front/FHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/views/front/FNotice.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/views/front/FNotice.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/views/front/FSwiper.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/views/front/FSwiper.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../block_cms_front/src/views/front/Reg.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../block_cms_front/src/views/front/Reg.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zsy/controller/UploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zsy/controller/UploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zsy/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zsy/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zsy/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zsy/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zsy/framework/mvc/MyWebMvcConfigurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zsy/framework/mvc/MyWebMvcConfigurer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zsy/mapper/UseMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zsy/mapper/UseMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zsy/controller/UploadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zsy/controller/UploadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zsy/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zsy/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zsy/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zsy/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zsy/framework/mvc/MyWebMvcConfigurer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zsy/framework/mvc/MyWebMvcConfigurer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zsy/mapper/UseMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zsy/mapper/UseMapper.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="已捆绑(Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="252wV54KlrrM3zS1bvUmv6gD9AO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/zsy" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zsy.service" />
+      <recent name="com.zsy.controller" />
+      <recent name="com.zsy.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Program Files (x86)\vue博客系统\blok_project\block_cms\src\main\java\com\zsy" />
+      <recent name="F:\Program Files (x86)\vue博客系统\blok_project\block_cms\src\main\java\com\zsy\controller" />
+      <recent name="F:\Program Files (x86)\vue博客系统\blok_project\block_cms\src\main\java\com\zsy\service" />
+      <recent name="F:\Program Files (x86)\vue博客系统\blok_project\block_cms\src\main\java\com\zsy\mapper" />
+      <recent name="F:\Program Files (x86)\vue博客系统\blok_project\block_cms\src\main\java\com\zsy\entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CmsApplication">
+    <configuration name="Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zsy.utils.Maps" />
+      <module name="block_cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zsy.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="block_cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zsy.CmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Maps" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="651a7860-85be-488b-b1c1-6514cbe78a10" name="默认的" comment="" />
+      <created>1644738509066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644738509066</updated>
+      <workItem from="1644738520809" duration="4265000" />
+      <workItem from="1644743044649" duration="6915000" />
+      <workItem from="1644813634954" duration="3404000" />
+      <workItem from="1644825707805" duration="6070000" />
+      <workItem from="1644839025835" duration="2308000" />
+      <workItem from="1644894661922" duration="20209000" />
+      <workItem from="1644923419166" duration="5280000" />
+      <workItem from="1644970314545" duration="1629000" />
+      <workItem from="1645089442487" duration="2623000" />
+      <workItem from="1645093263829" duration="50000" />
+      <workItem from="1645098341766" duration="3138000" />
+      <workItem from="1645141596214" duration="7012000" />
+      <workItem from="1645165619113" duration="4396000" />
+      <workItem from="1645170681547" duration="6436000" />
+      <workItem from="1645228109460" duration="3047000" />
+      <workItem from="1645400878705" duration="6631000" />
+      <workItem from="1645408940322" duration="3449000" />
+      <workItem from="1645413086277" duration="4257000" />
+      <workItem from="1645427809689" duration="3878000" />
+      <workItem from="1645487790983" duration="11858000" />
+      <workItem from="1645502171508" duration="1513000" />
+      <workItem from="1645517669394" duration="2838000" />
+      <workItem from="1645522532072" duration="1587000" />
+      <workItem from="1645574115891" duration="2070000" />
+      <workItem from="1645595688762" duration="1769000" />
+      <workItem from="1645608558419" duration="1675000" />
+      <workItem from="1645661254089" duration="4225000" />
+      <workItem from="1645669515172" duration="3530000" />
+      <workItem from="1645682262047" duration="2839000" />
+      <workItem from="1645747644210" duration="512000" />
+      <workItem from="1645862132788" duration="545000" />
+      <workItem from="1647739406890" duration="63000" />
+      <workItem from="1648707269090" duration="3143000" />
+      <workItem from="1648801462082" duration="1251000" />
+      <workItem from="1649120757210" duration="800000" />
+      <workItem from="1649295072565" duration="758000" />
+      <workItem from="1649333192885" duration="1503000" />
+      <workItem from="1649381870498" duration="1675000" />
+      <workItem from="1649386348560" duration="705000" />
+      <workItem from="1649508071682" duration="736000" />
+      <workItem from="1649511201529" duration="1304000" />
+      <workItem from="1649743743521" duration="4724000" />
+      <workItem from="1649816812557" duration="1414000" />
+      <workItem from="1650876058216" duration="1979000" />
+      <workItem from="1650879741752" duration="2029000" />
+      <workItem from="1650947786585" duration="393000" />
+      <workItem from="1651150812219" duration="1341000" />
+      <workItem from="1651219154129" duration="827000" />
+      <workItem from="1651305936238" duration="1319000" />
+      <workItem from="1651405731028" duration="586000" />
+      <workItem from="1651985550815" duration="1464000" />
+      <workItem from="1652007457973" duration="4133000" />
+      <workItem from="1652166215087" duration="1250000" />
+      <workItem from="1652264817838" duration="1077000" />
+      <workItem from="1653562918753" duration="956000" />
+      <workItem from="1653629893472" duration="893000" />
+      <workItem from="1653653004540" duration="2716000" />
+      <workItem from="1653705186877" duration="4278000" />
+      <workItem from="1656236931333" duration="101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="217" y="263" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1648707624768">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="217" y="263" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1648707624768" />
+    <state width="366" height="438" key="DebuggerActiveHint" timestamp="1645174019636">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="366" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1645174019636" />
+    <state width="1237" height="113" key="GridCell.Tab.0.bottom" timestamp="1653727275465">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1653727275465" />
+    <state width="1237" height="113" key="GridCell.Tab.0.center" timestamp="1653727275465">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1653727275465" />
+    <state width="1237" height="113" key="GridCell.Tab.0.left" timestamp="1653727275464">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1653727275464" />
+    <state width="1237" height="113" key="GridCell.Tab.0.right" timestamp="1653727275465">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1653727275465" />
+    <state width="1237" height="113" key="GridCell.Tab.1.bottom" timestamp="1653727275466">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1653727275466" />
+    <state width="1237" height="113" key="GridCell.Tab.1.center" timestamp="1653727275465">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1653727275465" />
+    <state width="1237" height="113" key="GridCell.Tab.1.left" timestamp="1653727275465">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1653727275465" />
+    <state width="1237" height="113" key="GridCell.Tab.1.right" timestamp="1653727275466">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1653727275466" />
+    <state width="1222" height="309" key="GridCell.Tab.2.bottom" timestamp="1645174139444">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="309" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1645174139444" />
+    <state width="1222" height="309" key="GridCell.Tab.2.center" timestamp="1645174139443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="309" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1645174139443" />
+    <state width="1222" height="309" key="GridCell.Tab.2.left" timestamp="1645174139443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="309" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1645174139443" />
+    <state width="1222" height="309" key="GridCell.Tab.2.right" timestamp="1645174139443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="309" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1645174139443" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1645169867339">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1645169867339" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1645666982450">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1645666982450" />
+  </component>
+</project>
